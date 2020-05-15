@@ -1,0 +1,4 @@
+2020-05-13T20:54:20+08:00 200 GET /admin/plan 463.758µs 127.0.0.1 0 9 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 
+2020-05-13T20:55:37+08:00 200 GET /admin/plan 450.565µs 127.0.0.1 0 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 
+2020-05-13T21:02:03+08:00 500 GET /admin/plan 441.63µs 127.0.0.1 0 36 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 
+2020-05-13T21:03:18+08:00 302 GET /admin/plan 357.027µs 127.0.0.1 0 15 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 
